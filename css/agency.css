@@ -10,7 +10,11 @@ body {
 }
 
 .text-muted {
-    color: #777;
+    color: #525252;
+}
+
+.text-light {
+    color: #dcdcdc;
 }
 
 .text-primary {
@@ -35,7 +39,7 @@ a.active {
 }
 
 a {
-    color: #fed136;
+    color: #4c3c00;
 }
 
 a:hover,
@@ -125,7 +129,7 @@ fieldset[disabled] .btn-primary.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
-    color: #fff;
+    color: #013165;
     background-color: #fed136;
 }
 
